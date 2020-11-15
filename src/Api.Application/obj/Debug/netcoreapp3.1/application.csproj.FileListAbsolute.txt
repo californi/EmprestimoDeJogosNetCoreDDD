@@ -82,6 +82,7 @@ D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCor
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\bin\Debug\netcoreapp3.1\application.pdb
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\bin\Debug\netcoreapp3.1\AutoMapper.dll
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
@@ -106,10 +107,14 @@ D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCor
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\bin\Debug\netcoreapp3.1\MySqlConnector.dll
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
@@ -136,6 +141,7 @@ D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCor
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\obj\Debug\netcoreapp3.1\application.AssemblyInfoInputs.cache
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\obj\Debug\netcoreapp3.1\application.AssemblyInfo.cs
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\obj\Debug\netcoreapp3.1\application.csproj.CoreCompileInputs.cache
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\obj\Debug\netcoreapp3.1\application.MvcApplicationPartsAssemblyInfo.cs
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\obj\Debug\netcoreapp3.1\application.MvcApplicationPartsAssemblyInfo.cache
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\obj\Debug\netcoreapp3.1\application.RazorTargetAssemblyInfo.cache
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\obj\Debug\netcoreapp3.1\application.csproj.CopyComplete
@@ -144,9 +150,3 @@ D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCor
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\obj\Debug\netcoreapp3.1\application.dll
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\obj\Debug\netcoreapp3.1\application.pdb
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\obj\Debug\netcoreapp3.1\application.genruntimeconfig.cache
-D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
-D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
-D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\obj\Debug\netcoreapp3.1\application.MvcApplicationPartsAssemblyInfo.cs
-D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll

@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Api.CrossCutting.DependencyInjection;
+using Api.CrossCutting.Mappings;
 using Api.Domain.Security;
+using AutoMapper;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Builder;
@@ -33,6 +35,16 @@ namespace application
             //Deixando na crosscutting, isso auxilia na evolucao da arquitetura. Aplicacao enxerga a Crosscutting, invez da data
             ConfigureService.ConfigureDependenciesService(services);
             ConfigureRepository.ConfigureDependenciesRepository(services);
+
+            var config = new AutoMapper.MapperConfiguration(cfg =>
+            {
+                cfg.AddProfile(new DtoToModelProfile());
+                cfg.AddProfile(new EntityToDtoProfile());
+                cfg.AddProfile(new ModelToEntityProfile());
+            });
+
+            IMapper mapper = config.CreateMapper();
+            services.AddSingleton(mapper);
 
             var signingConfigurations = new SigningConfigurations();
             services.AddSingleton(signingConfigurations);
@@ -87,12 +99,12 @@ namespace application
 
                 c.AddSecurityRequirement(new OpenApiSecurityRequirement{
                 {
-                        new OpenApiSecurityScheme{
-                        Reference = new OpenApiReference{
-                            Id = "Bearer",
-                            Type = ReferenceType.SecurityScheme
-                        }
-                        },
+                    new OpenApiSecurityScheme{
+                    Reference = new OpenApiReference{
+                        Id = "Bearer",
+                        Type = ReferenceType.SecurityScheme
+                    }
+                    },
                     new List<string>()
                 }});
 

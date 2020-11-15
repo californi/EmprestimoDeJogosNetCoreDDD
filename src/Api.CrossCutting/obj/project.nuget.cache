@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3MLgHgyqdUQFGO8qAzloJ7WIXQgzkRkfs6VvCcBnL+8XwWhy9oC1nL9lz3Liof6hWOIiMg8tSO3ra8isBPvWgA==",
+  "dgSpecHash": "/0YUZ9Kbzqi4wZ+hY3pqbh/OIV19OJfTFloAthfFcOMukErNMyNK3psELUINE4v4jbBu1CACu+pQW/0GBWxenw==",
   "success": true,
   "projectFilePath": "D:\\Bento\\Projects\\Invillia\\ProjetoTest\\EmprestimoDeJogos\\EmprestimoDeJogosNetCoreDDD\\src\\Api.CrossCutting\\CrossCutting.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Bento\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
+    "C:\\Users\\Bento\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Bento\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
     "C:\\Users\\Bento\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Bento\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
