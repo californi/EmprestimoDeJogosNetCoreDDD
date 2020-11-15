@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HFPCeyKSjmUFwVBE3t+KoDimUf60yToMFH5ky8T1OnMTCYQ/Bu31s88JiUE2YQLZuyckqNsdIPRzPU64cvP6dg==",
+  "dgSpecHash": "vnZAVMoHjBb7RCrBVeUXO7qYhE9+GQWXi8bXEs3QqGx6WnU8jyTNN68ndhW8VQlWiwG0mrLtKKWe8uvF5WnRyw==",
   "success": true,
-  "projectFilePath": "D:\\Bento\\Projects\\Invillia\\ProjetoTest\\EmprestimoDeJogos\\src\\Api.CrossCutting\\CrossCutting.csproj",
+  "projectFilePath": "D:\\Bento\\Projects\\Invillia\\ProjetoTest\\EmprestimoDeJogos\\EmprestimoDeJogosNetCoreDDD\\src\\Api.CrossCutting\\CrossCutting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bento\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
     "C:\\Users\\Bento\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",

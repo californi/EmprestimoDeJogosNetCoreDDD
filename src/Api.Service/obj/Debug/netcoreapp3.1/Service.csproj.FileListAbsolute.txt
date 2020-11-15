@@ -12,3 +12,17 @@ D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\src\Api.Service\bin\Deb
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.pdb
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\src\Api.Service\bin\Debug\netcoreapp3.1\Data.pdb
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Service\bin\Debug\netcoreapp3.1\Service.deps.json
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Service\bin\Debug\netcoreapp3.1\Service.dll
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Service\bin\Debug\netcoreapp3.1\Service.pdb
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Service\bin\Debug\netcoreapp3.1\Data.dll
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Service\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb

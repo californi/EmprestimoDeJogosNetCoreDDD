@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fybUJosG7D7G2BT8ZfXvnkMySeKzXSHHawEXO6iLxA4uy+hw5/j/TwCQbWFBTi5anpODHp46Vb3LPU0AooOT+A==",
+  "dgSpecHash": "ji/YrN4ts5sdUxTYnnsHw9B2kewAMfHu3gOryAEueiQsL1xSXxxR5xbmEWVlICKuUHUFdVMwIVvn1XTr7B0eNQ==",
   "success": true,
-  "projectFilePath": "D:\\Bento\\Projects\\Invillia\\ProjetoTest\\EmprestimoDeJogos\\src\\Api.Domain\\Domain.csproj",
+  "projectFilePath": "D:\\Bento\\Projects\\Invillia\\ProjetoTest\\EmprestimoDeJogos\\EmprestimoDeJogosNetCoreDDD\\src\\Api.Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

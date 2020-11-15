@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iGXE8cTjai0d1UAYkYsqdOIIf0R+pucSPempAR17tcWxkxS+XrnHEflTLLu9qM4+sf7wqhZE3rk1RkOjoW2w2g==",
+  "dgSpecHash": "r1uulHP0uXCNeNCX0ThQ7Z0Yaikkp1gvt0lpgI4WDURdweAEuEue3WYFMMWbkcdiCS5dtS2cpAqwBRcfbtafSA==",
   "success": true,
-  "projectFilePath": "D:\\Bento\\Projects\\Invillia\\ProjetoTest\\EmprestimoDeJogos\\src\\Api.Data\\Data.csproj",
+  "projectFilePath": "D:\\Bento\\Projects\\Invillia\\ProjetoTest\\EmprestimoDeJogos\\EmprestimoDeJogosNetCoreDDD\\src\\Api.Data\\Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bento\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Bento\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

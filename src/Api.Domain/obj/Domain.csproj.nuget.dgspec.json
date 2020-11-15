@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Bento\\Projects\\Invillia\\ProjetoTest\\EmprestimoDeJogos\\src\\Api.Domain\\Domain.csproj": {}
+    "D:\\Bento\\Projects\\Invillia\\ProjetoTest\\EmprestimoDeJogos\\EmprestimoDeJogosNetCoreDDD\\src\\Api.Domain\\Domain.csproj": {}
   },
   "projects": {
-    "D:\\Bento\\Projects\\Invillia\\ProjetoTest\\EmprestimoDeJogos\\src\\Api.Domain\\Domain.csproj": {
+    "D:\\Bento\\Projects\\Invillia\\ProjetoTest\\EmprestimoDeJogos\\EmprestimoDeJogosNetCoreDDD\\src\\Api.Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Bento\\Projects\\Invillia\\ProjetoTest\\EmprestimoDeJogos\\src\\Api.Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Bento\\Projects\\Invillia\\ProjetoTest\\EmprestimoDeJogos\\EmprestimoDeJogosNetCoreDDD\\src\\Api.Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Bento\\Projects\\Invillia\\ProjetoTest\\EmprestimoDeJogos\\src\\Api.Domain\\Domain.csproj",
+        "projectPath": "D:\\Bento\\Projects\\Invillia\\ProjetoTest\\EmprestimoDeJogos\\EmprestimoDeJogosNetCoreDDD\\src\\Api.Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Bento\\.nuget\\packages\\",
-        "outputPath": "D:\\Bento\\Projects\\Invillia\\ProjetoTest\\EmprestimoDeJogos\\src\\Api.Domain\\obj\\",
+        "outputPath": "D:\\Bento\\Projects\\Invillia\\ProjetoTest\\EmprestimoDeJogos\\EmprestimoDeJogosNetCoreDDD\\src\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bento\\AppData\\Roaming\\NuGet\\NuGet.Config"
