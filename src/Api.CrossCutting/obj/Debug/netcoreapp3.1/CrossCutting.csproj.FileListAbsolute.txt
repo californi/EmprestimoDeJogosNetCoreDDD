@@ -1,0 +1,16 @@
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.deps.json
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.dll
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.pdb
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfoInputs.cache
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfo.cs
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CoreCompileInputs.cache
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.dll
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.pdb
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csprojAssemblyReference.cache
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Data.dll
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Service.dll
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Service.pdb
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CopyComplete

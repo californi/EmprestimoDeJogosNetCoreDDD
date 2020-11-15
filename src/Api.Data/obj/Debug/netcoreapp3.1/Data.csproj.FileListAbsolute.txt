@@ -1,0 +1,15 @@
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\src\Api.Data\bin\Debug\netcoreapp3.1\Data.deps.json
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\src\Api.Data\bin\Debug\netcoreapp3.1\Data.dll
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\src\Api.Data\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\src\Api.Data\obj\Debug\netcoreapp3.1\Data.dll
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\src\Api.Data\obj\Debug\netcoreapp3.1\Data.pdb
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\src\Api.Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
