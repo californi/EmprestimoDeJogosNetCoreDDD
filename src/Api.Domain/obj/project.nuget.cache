@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "ji/YrN4ts5sdUxTYnnsHw9B2kewAMfHu3gOryAEueiQsL1xSXxxR5xbmEWVlICKuUHUFdVMwIVvn1XTr7B0eNQ==",
+  "dgSpecHash": "a5t22Uym8GZJ5jX5TgUC8edjwdy7IzrzLANQ/issgQj+l11sNnCS9tJeihprELCg65zbK9t8496VZ4ADdz1zuQ==",
   "success": true,
   "projectFilePath": "D:\\Bento\\Projects\\Invillia\\ProjetoTest\\EmprestimoDeJogos\\EmprestimoDeJogosNetCoreDDD\\src\\Api.Domain\\Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Bento\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Bento\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.8.0\\microsoft.identitymodel.jsonwebtokens.6.8.0.nupkg.sha512",
+    "C:\\Users\\Bento\\.nuget\\packages\\microsoft.identitymodel.logging\\6.8.0\\microsoft.identitymodel.logging.6.8.0.nupkg.sha512",
+    "C:\\Users\\Bento\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.8.0\\microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
+    "C:\\Users\\Bento\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.8.0\\system.identitymodel.tokens.jwt.6.8.0.nupkg.sha512",
+    "C:\\Users\\Bento\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

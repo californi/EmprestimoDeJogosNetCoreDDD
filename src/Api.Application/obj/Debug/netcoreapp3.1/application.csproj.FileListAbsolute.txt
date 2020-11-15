@@ -149,3 +149,4 @@ D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCor
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\obj\Debug\netcoreapp3.1\application.MvcApplicationPartsAssemblyInfo.cs
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
