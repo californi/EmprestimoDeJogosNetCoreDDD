@@ -14,6 +14,9 @@ namespace Api.Data.Context
         {
             base.OnModelCreating(modelBuilder);
             modelBuilder.Entity<UsuarioEntity>(new UsuarioMap().Configure);
+            modelBuilder.Entity<JogoEntity>(new JogoMap().Configure);
+            modelBuilder.Entity<JogadorEntity>(new JogadorMap().Configure);
+            modelBuilder.Entity<EmprestimoJogoEntity>(new EmprestimoJogoMap().Configure);
         }
     }
 }

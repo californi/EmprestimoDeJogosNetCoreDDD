@@ -15,6 +15,10 @@ namespace Api.CrossCutting.DependencyInjection
             serviceCollection.AddScoped(typeof(IRepository<>), typeof(BaseRepository<>));
             serviceCollection.AddScoped<IUsuarioRepository, UsuarioImplementation>();
 
+            serviceCollection.AddScoped<IJogadorRepository, JogadorImplementation>();
+            serviceCollection.AddScoped<IJogoRepository, JogoImplementation>();
+            serviceCollection.AddScoped<IEmprestimoJogoRepository, EmprestimoJogoImplementation>();
+
             serviceCollection.AddDbContext<MyContext>(
                 options => options.UseMySql("Server=localhost; Port=3306; Database=EmprestimoDeJogos; Uid=root; Pwd=mudar@123")
             );

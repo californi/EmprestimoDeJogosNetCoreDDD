@@ -7,13 +7,13 @@ using Api.Domain.Dtos.Jogo;
 
 namespace Api.Domain.Interfaces.Services.EmprestimoJogo
 {
-    public interface IEmprestimoJogo
+    public interface IEmprestimoJogoService
     {
         Task<IEnumerable<EmprestimoJogoDto>> GetAll();
         Task<EmprestimoJogoDto> BuscarPorJogo(JogoDto jogo);
         Task<EmprestimoJogoDto> BuscarPorJogador(JogadorDto jogador);
-        Task<EmprestimoJogoDtoCreateResult> Post(EmprestimoJogoDtoCreate jogador);
-        Task<EmprestimoJogoDtoUpdateResult> Put(EmprestimoJogoDtoUpdate jogador);
+        Task<EmprestimoJogoDtoCreateResult> Post(EmprestimoJogoDtoCreate emprestimoJogo);
+        Task<EmprestimoJogoDtoUpdateResult> Put(EmprestimoJogoDtoUpdate emprestimoJogo);
         Task<bool> Delete(Guid id);
     }
 }

@@ -16,3 +16,6 @@ Value: Bearer <token gerado no login>
 
 
 -- Camadas de teste de unidades implementada. Ainda falta a camada de teste de integração.  Caso dê tempo até o prazo, eu tento incluir uma camada de teste de integração.
+
+
+-- Falta implementar 2 GetBy para modelo EmprestimoJogo

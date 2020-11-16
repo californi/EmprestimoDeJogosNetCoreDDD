@@ -9,7 +9,6 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Api.Application.Controllers
 {
-    //http://localhost:5000/api/usuarios
     [Route("api/[controller]")]
     [ApiController]
     public class UsuariosController : ControllerBase
@@ -57,7 +56,7 @@ namespace Api.Application.Controllers
             }
         }
 
-        [Authorize("Bearer")]
+        [AllowAnonymous]
         [HttpPost]
         public async Task<ActionResult> Post([FromBody] UsuarioDtoCreate usuario)
         {

@@ -17,6 +17,94 @@ namespace Data.Migrations
                 .HasAnnotation("ProductVersion", "3.1.10")
                 .HasAnnotation("Relational:MaxIdentifierLength", 64);
 
+            modelBuilder.Entity("Api.Domain.Entities.EmprestimoJogoEntity", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("char(36)");
+
+                    b.Property<DateTime?>("CreateAt")
+                        .HasColumnType("datetime(6)");
+
+                    b.Property<bool>("Devolvido")
+                        .HasColumnType("tinyint(1)");
+
+                    b.Property<Guid>("JogadorId")
+                        .HasColumnType("char(36)");
+
+                    b.Property<Guid>("JogoId")
+                        .HasColumnType("char(36)");
+
+                    b.Property<DateTime?>("UpdateAt")
+                        .HasColumnType("datetime(6)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("JogadorId");
+
+                    b.HasIndex("JogoId");
+
+                    b.ToTable("tabEmprestimoJogo");
+                });
+
+            modelBuilder.Entity("Api.Domain.Entities.JogadorEntity", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("char(36)");
+
+                    b.Property<string>("Cidade")
+                        .HasColumnType("longtext CHARACTER SET utf8mb4");
+
+                    b.Property<DateTime?>("CreateAt")
+                        .HasColumnType("datetime(6)");
+
+                    b.Property<string>("Nome")
+                        .IsRequired()
+                        .HasColumnType("varchar(20) CHARACTER SET utf8mb4")
+                        .HasMaxLength(20);
+
+                    b.Property<DateTime?>("UpdateAt")
+                        .HasColumnType("datetime(6)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("tabJogador");
+                });
+
+            modelBuilder.Entity("Api.Domain.Entities.JogoEntity", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("char(36)");
+
+                    b.Property<DateTime?>("CreateAt")
+                        .HasColumnType("datetime(6)");
+
+                    b.Property<string>("Descricao")
+                        .HasColumnType("longtext CHARACTER SET utf8mb4");
+
+                    b.Property<Guid>("JogadorDonoId")
+                        .HasColumnType("char(36)");
+
+                    b.Property<string>("Nome")
+                        .IsRequired()
+                        .HasColumnType("varchar(20) CHARACTER SET utf8mb4")
+                        .HasMaxLength(20);
+
+                    b.Property<string>("Tipo")
+                        .HasColumnType("longtext CHARACTER SET utf8mb4");
+
+                    b.Property<DateTime?>("UpdateAt")
+                        .HasColumnType("datetime(6)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("JogadorDonoId");
+
+                    b.ToTable("tabJogo");
+                });
+
             modelBuilder.Entity("Api.Domain.Entities.UsuarioEntity", b =>
                 {
                     b.Property<Guid>("Id")
@@ -44,6 +132,30 @@ namespace Data.Migrations
                         .IsUnique();
 
                     b.ToTable("tabUsuario");
+                });
+
+            modelBuilder.Entity("Api.Domain.Entities.EmprestimoJogoEntity", b =>
+                {
+                    b.HasOne("Api.Domain.Entities.JogadorEntity", "Jogador")
+                        .WithMany("Emprestimos")
+                        .HasForeignKey("JogadorId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Api.Domain.Entities.JogoEntity", "Jogo")
+                        .WithMany("Emprestimos")
+                        .HasForeignKey("JogoId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("Api.Domain.Entities.JogoEntity", b =>
+                {
+                    b.HasOne("Api.Domain.Entities.JogadorEntity", "JogadorDono")
+                        .WithMany("Jogos")
+                        .HasForeignKey("JogadorDonoId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
                 });
 #pragma warning restore 612, 618
         }

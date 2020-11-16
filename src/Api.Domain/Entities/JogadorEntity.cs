@@ -11,5 +11,7 @@ namespace Api.Domain.Entities
         public string Cidade { get; set; }
 
         public IEnumerable<JogoEntity> Jogos { get; set; }
+
+        public IEnumerable<EmprestimoJogoEntity> Emprestimos { get; set; }
     }
 }

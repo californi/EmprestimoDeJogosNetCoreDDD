@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Api.Domain.Entities
 {
-    public class EmprestimoJogo : BaseEntity
+    public class EmprestimoJogoEntity : BaseEntity
     {
         [Required]
         public Guid JogoId { get; set; }
