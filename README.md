@@ -13,3 +13,7 @@ Key: Authorization
 Value: Bearer <token gerado no login>
 
 -- Melhorando a estrutura do projeto (também a fim de realizar uma personalização na apresentação da troca de objetos), com relação ao retorno de objetos, includindo Dto com AutoMapper
+
+
+-- Camadas de teste de unidades implementada. Ainda falta a camada de teste de integração.  Caso dê tempo até o prazo, eu tento incluir uma camada de teste de integração.
+
