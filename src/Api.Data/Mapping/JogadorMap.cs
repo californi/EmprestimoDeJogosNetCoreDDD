@@ -14,13 +14,12 @@ namespace Api.Data.Mapping
 
             builder.Property(u => u.Nome)
                 .IsRequired()
-                .HasMaxLength(20);
+                .HasMaxLength(100);
 
             builder.Property(u => u.Cidade);
 
             //chave estrangeira
-            builder.HasMany(u => u.Jogos)
-                   .WithOne(m => m.JogadorDono);
+            builder.HasMany(u => u.Jogos);
         }
     }
 }

@@ -5,8 +5,7 @@ namespace Api.Domain.Entities
 {
     public class JogadorEntity : BaseEntity
     {
-        [Required]
-        [MaxLength(20)]
+        [MaxLength(100)]
         public string Nome { get; set; }
         public string Cidade { get; set; }
 

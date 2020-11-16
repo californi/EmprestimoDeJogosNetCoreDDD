@@ -26,7 +26,7 @@ namespace Data.Migrations
                     b.Property<DateTime?>("CreateAt")
                         .HasColumnType("datetime(6)");
 
-                    b.Property<bool>("Devolvido")
+                    b.Property<bool?>("Devolvido")
                         .HasColumnType("tinyint(1)");
 
                     b.Property<Guid>("JogadorId")
@@ -61,8 +61,8 @@ namespace Data.Migrations
 
                     b.Property<string>("Nome")
                         .IsRequired()
-                        .HasColumnType("varchar(20) CHARACTER SET utf8mb4")
-                        .HasMaxLength(20);
+                        .HasColumnType("varchar(100) CHARACTER SET utf8mb4")
+                        .HasMaxLength(100);
 
                     b.Property<DateTime?>("UpdateAt")
                         .HasColumnType("datetime(6)");
@@ -84,13 +84,13 @@ namespace Data.Migrations
                     b.Property<string>("Descricao")
                         .HasColumnType("longtext CHARACTER SET utf8mb4");
 
-                    b.Property<Guid>("JogadorDonoId")
+                    b.Property<Guid>("JogadorId")
                         .HasColumnType("char(36)");
 
                     b.Property<string>("Nome")
                         .IsRequired()
-                        .HasColumnType("varchar(20) CHARACTER SET utf8mb4")
-                        .HasMaxLength(20);
+                        .HasColumnType("varchar(50) CHARACTER SET utf8mb4")
+                        .HasMaxLength(50);
 
                     b.Property<string>("Tipo")
                         .HasColumnType("longtext CHARACTER SET utf8mb4");
@@ -100,7 +100,7 @@ namespace Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("JogadorDonoId");
+                    b.HasIndex("JogadorId");
 
                     b.ToTable("tabJogo");
                 });
@@ -151,9 +151,9 @@ namespace Data.Migrations
 
             modelBuilder.Entity("Api.Domain.Entities.JogoEntity", b =>
                 {
-                    b.HasOne("Api.Domain.Entities.JogadorEntity", "JogadorDono")
+                    b.HasOne("Api.Domain.Entities.JogadorEntity", "Jogador")
                         .WithMany("Jogos")
-                        .HasForeignKey("JogadorDonoId")
+                        .HasForeignKey("JogadorId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
                 });

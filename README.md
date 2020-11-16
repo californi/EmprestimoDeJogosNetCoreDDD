@@ -19,3 +19,8 @@ Value: Bearer <token gerado no login>
 
 
 -- Falta implementar 2 GetBy para modelo EmprestimoJogo
+
+
+-- Atualizacao EF na camada de Data
+dotnet ef migrations add <nome atualizacao>
+dotnet ef database update
