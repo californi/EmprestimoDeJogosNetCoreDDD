@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9vpsEaW+Rk6UNZ65g0lz+gF0QC0RNFAOBxrEjT61eS++qnHWrRWf43ykNL3BMbvVWDkstce3zSEJmTrSDjPvJQ==",
+  "dgSpecHash": "BhC2oxcuHYVcFATxWwC0b6OHAD/Uw5q0C0ZtaAG6XJED076TY9h1ag6V/6rLzfJYd86dYi+hFzGAbGXT+TvVRQ==",
   "success": true,
   "projectFilePath": "D:\\Bento\\Projects\\Invillia\\ProjetoTest\\EmprestimoDeJogos\\EmprestimoDeJogosNetCoreDDD\\src\\Api.Application.Test\\Api.Application.Test.csproj",
   "expectedPackageFiles": [
@@ -44,6 +44,7 @@
     "C:\\Users\\Bento\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Bento\\.nuget\\packages\\microsoft.testplatform.objectmodel\\16.5.0\\microsoft.testplatform.objectmodel.16.5.0.nupkg.sha512",
     "C:\\Users\\Bento\\.nuget\\packages\\microsoft.testplatform.testhost\\16.5.0\\microsoft.testplatform.testhost.16.5.0.nupkg.sha512",
+    "C:\\Users\\Bento\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Users\\Bento\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\Bento\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\Bento\\.nuget\\packages\\moq\\4.14.5\\moq.4.14.5.nupkg.sha512",

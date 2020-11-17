@@ -10,8 +10,9 @@ namespace Api.CrossCutting.DependencyInjection
 {
     public class ConfigureRepository
     {
-        public static void ConfigureDependenciesRepository(IServiceCollection serviceCollection)
+        public static void ConfigureDependenciesRepository(IServiceCollection serviceCollection, string host, string port, string pwd)
         {
+
             serviceCollection.AddScoped(typeof(IRepository<>), typeof(BaseRepository<>));
             serviceCollection.AddScoped<IUsuarioRepository, UsuarioImplementation>();
 
@@ -20,7 +21,7 @@ namespace Api.CrossCutting.DependencyInjection
             serviceCollection.AddScoped<IEmprestimoJogoRepository, EmprestimoJogoImplementation>();
 
             serviceCollection.AddDbContext<MyContext>(
-                options => options.UseMySql("Server=localhost; Port=3306; Database=EmprestimoDeJogos; Uid=root; Pwd=mudar@123")
+                options => options.UseMySql($"Server={host}; Port={port}; Database=EmprestimoDeJogos; Uid=root; Pwd={pwd}")
             );
         }
     }

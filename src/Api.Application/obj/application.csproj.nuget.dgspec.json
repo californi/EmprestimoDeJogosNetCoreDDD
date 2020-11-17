@@ -14,16 +14,19 @@
         "outputPath": "D:\\Bento\\Projects\\Invillia\\ProjetoTest\\EmprestimoDeJogos\\EmprestimoDeJogosNetCoreDDD\\src\\Api.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Bento\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Bento\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
               "D:\\Bento\\Projects\\Invillia\\ProjetoTest\\EmprestimoDeJogos\\EmprestimoDeJogosNetCoreDDD\\src\\Api.CrossCutting\\CrossCutting.csproj": {
                 "projectPath": "D:\\Bento\\Projects\\Invillia\\ProjetoTest\\EmprestimoDeJogos\\EmprestimoDeJogosNetCoreDDD\\src\\Api.CrossCutting\\CrossCutting.csproj"
@@ -45,10 +48,15 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[3.1.10, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.9, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -73,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -87,16 +95,19 @@
         "outputPath": "D:\\Bento\\Projects\\Invillia\\ProjetoTest\\EmprestimoDeJogos\\EmprestimoDeJogosNetCoreDDD\\src\\Api.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Bento\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Bento\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
               "D:\\Bento\\Projects\\Invillia\\ProjetoTest\\EmprestimoDeJogos\\EmprestimoDeJogosNetCoreDDD\\src\\Api.Data\\Data.csproj": {
                 "projectPath": "D:\\Bento\\Projects\\Invillia\\ProjetoTest\\EmprestimoDeJogos\\EmprestimoDeJogosNetCoreDDD\\src\\Api.Data\\Data.csproj"
@@ -118,6 +129,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
@@ -143,7 +155,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -157,16 +169,19 @@
         "outputPath": "D:\\Bento\\Projects\\Invillia\\ProjetoTest\\EmprestimoDeJogos\\EmprestimoDeJogosNetCoreDDD\\src\\Api.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Bento\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Bento\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
               "D:\\Bento\\Projects\\Invillia\\ProjetoTest\\EmprestimoDeJogos\\EmprestimoDeJogosNetCoreDDD\\src\\Api.Domain\\Domain.csproj": {
                 "projectPath": "D:\\Bento\\Projects\\Invillia\\ProjetoTest\\EmprestimoDeJogos\\EmprestimoDeJogosNetCoreDDD\\src\\Api.Domain\\Domain.csproj"
@@ -182,6 +197,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers",
@@ -219,7 +235,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -233,16 +249,19 @@
         "outputPath": "D:\\Bento\\Projects\\Invillia\\ProjetoTest\\EmprestimoDeJogos\\EmprestimoDeJogosNetCoreDDD\\src\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Bento\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Bento\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -254,6 +273,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
@@ -275,7 +295,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -289,16 +309,19 @@
         "outputPath": "D:\\Bento\\Projects\\Invillia\\ProjetoTest\\EmprestimoDeJogos\\EmprestimoDeJogosNetCoreDDD\\src\\Api.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Bento\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Bento\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
               "D:\\Bento\\Projects\\Invillia\\ProjetoTest\\EmprestimoDeJogos\\EmprestimoDeJogosNetCoreDDD\\src\\Api.Data\\Data.csproj": {
                 "projectPath": "D:\\Bento\\Projects\\Invillia\\ProjetoTest\\EmprestimoDeJogos\\EmprestimoDeJogosNetCoreDDD\\src\\Api.Data\\Data.csproj"
@@ -317,6 +340,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
@@ -338,7 +362,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

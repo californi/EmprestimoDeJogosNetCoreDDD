@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JV/ZBJ49dShwdmFB9RWErLmLq3Hsjmlohp2EUxX5EVabPhJyJLnJS1jrOb/NU6GiUsriNDx0eM6ULlBqC5Yjcg==",
+  "dgSpecHash": "lw9SMRkPkrTdcFc596jLnUovsGEBS5vxEkgYocbvgXxQGjE8zqcbi60WFCWwL3UdzUiordnZ61OprTtqte4bIA==",
   "success": true,
   "projectFilePath": "D:\\Bento\\Projects\\Invillia\\ProjetoTest\\EmprestimoDeJogos\\EmprestimoDeJogosNetCoreDDD\\src\\Api.Data.Test\\Api.Data.Test.csproj",
   "expectedPackageFiles": [
@@ -43,6 +43,7 @@
     "C:\\Users\\Bento\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Bento\\.nuget\\packages\\microsoft.testplatform.objectmodel\\16.5.0\\microsoft.testplatform.objectmodel.16.5.0.nupkg.sha512",
     "C:\\Users\\Bento\\.nuget\\packages\\microsoft.testplatform.testhost\\16.5.0\\microsoft.testplatform.testhost.16.5.0.nupkg.sha512",
+    "C:\\Users\\Bento\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Users\\Bento\\.nuget\\packages\\microsoft.win32.primitives\\4.0.1\\microsoft.win32.primitives.4.0.1.nupkg.sha512",
     "C:\\Users\\Bento\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\Bento\\.nuget\\packages\\mysqlconnector\\0.61.0\\mysqlconnector.0.61.0.nupkg.sha512",

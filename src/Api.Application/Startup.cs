@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Api.CrossCutting.DependencyInjection;
 using Api.CrossCutting.Mappings;
+using Api.Data.Context;
 using Api.Domain.Security;
 using AutoMapper;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
@@ -11,6 +12,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -32,9 +34,17 @@ namespace application
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            var host = Configuration["DBHOST"] ?? "localhost";
+            var port = Configuration["DBPORT"] ?? "3306";
+            var pwd = Configuration["DBPASSWORD"] ?? "secret";
+
+            services.AddDbContext<MyContext>(
+                options => options.UseMySql($"Server={host}; Port={port}; Database=EmprestimoDeJogos; Uid=root; Pwd={pwd}")
+            );
+
             //Deixando na crosscutting, isso auxilia na evolucao da arquitetura. Aplicacao enxerga a Crosscutting, invez da data
             ConfigureService.ConfigureDependenciesService(services);
-            ConfigureRepository.ConfigureDependenciesRepository(services);
+            ConfigureRepository.ConfigureDependenciesRepository(services, host, port, pwd);
 
             var config = new AutoMapper.MapperConfiguration(cfg =>
             {
@@ -113,7 +123,7 @@ namespace application
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env, MyContext context)
         {
             if (env.IsDevelopment())
             {
@@ -130,6 +140,8 @@ namespace application
             app.UseRouting();
 
             app.UseAuthorization();
+
+            context.Database.Migrate();
 
             app.UseEndpoints(endpoints =>
             {

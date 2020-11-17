@@ -73,7 +73,6 @@ D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\src\Api.Application\bin
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\src\Api.Application\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\bin\Debug\netcoreapp3.1\appsettings.json
-D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\bin\Debug\netcoreapp3.1\application.exe
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\bin\Debug\netcoreapp3.1\application.deps.json
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\bin\Debug\netcoreapp3.1\application.runtimeconfig.json
@@ -143,10 +142,11 @@ D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCor
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\obj\Debug\netcoreapp3.1\application.csproj.CoreCompileInputs.cache
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\obj\Debug\netcoreapp3.1\application.MvcApplicationPartsAssemblyInfo.cs
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\obj\Debug\netcoreapp3.1\application.MvcApplicationPartsAssemblyInfo.cache
-D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\obj\Debug\netcoreapp3.1\application.RazorTargetAssemblyInfo.cache
-D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\obj\Debug\netcoreapp3.1\application.csproj.CopyComplete
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\obj\Debug\netcoreapp3.1\staticwebassets\application.StaticWebAssets.Manifest.cache
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\obj\Debug\netcoreapp3.1\staticwebassets\application.StaticWebAssets.xml
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\obj\Debug\netcoreapp3.1\scopedcss\bundle\application.styles.css
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\obj\Debug\netcoreapp3.1\application.RazorTargetAssemblyInfo.cache
+D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\obj\Debug\netcoreapp3.1\application.csproj.CopyComplete
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\obj\Debug\netcoreapp3.1\application.dll
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\obj\Debug\netcoreapp3.1\application.pdb
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Application\obj\Debug\netcoreapp3.1\application.genruntimeconfig.cache

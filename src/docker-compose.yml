@@ -1,0 +1,27 @@
+version: "3.4"
+
+volumes:
+  datafiles:
+
+services:
+  application:
+    image: ${DOCKER_REGISTRY-}application
+    build:
+      context: .
+      dockerfile: Api.Application/Dockerfile
+    depends_on:
+      - db
+    ports:
+      - "5555:80"
+    restart: always
+    environment:
+      - DBHOST=db
+      - ASPNETCORE_ENVIRONMENT=Development
+
+  db:
+    image: mysql:8.0.0
+    volumes:
+      - datafiles:/var/lib/mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: secret

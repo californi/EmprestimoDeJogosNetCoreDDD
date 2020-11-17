@@ -1,6 +1,5 @@
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Data.Test\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Data.Test\bin\Debug\netcoreapp3.1\appsettings.json
-D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Data.Test\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Data.Test\bin\Debug\netcoreapp3.1\application.exe
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Data.Test\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 D:\Bento\Projects\Invillia\ProjetoTest\EmprestimoDeJogos\EmprestimoDeJogosNetCoreDDD\src\Api.Data.Test\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
